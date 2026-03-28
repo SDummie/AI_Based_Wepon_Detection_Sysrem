@@ -1,0 +1,21 @@
+timestamp,label,confidence,screenshot
+2026-03-26 14:39:30,knife,0.266,detections\detect_20260326_143930.jpg
+2026-03-26 14:40:03,knife,0.255,detections\detect_20260326_144003.jpg
+2026-03-26 14:40:34,knife,0.327,detections\detect_20260326_144034.jpg
+2026-03-26 14:41:04,knife,0.300,detections\detect_20260326_144104.jpg
+2026-03-26 14:41:41,knife,0.319,detections\detect_20260326_144141.jpg
+2026-03-26 14:42:11,knife,0.252,detections\detect_20260326_144211.jpg
+2026-03-26 14:42:56,knife,0.280,detections\detect_20260326_144256.jpg
+2026-03-26 14:45:06,knife,0.622,detections\detect_20260326_144506.jpg
+2026-03-26 14:45:40,knife,0.256,detections\detect_20260326_144540.jpg
+2026-03-26 14:50:27,knife,0.544,detections\detect_20260326_145027.jpg
+2026-03-26 14:50:57,knife,0.260,detections\detect_20260326_145057.jpg
+2026-03-26 14:59:37,knife,0.351,detections\detect_20260326_145937.jpg
+2026-03-26 15:01:13,knife,0.256,detections\detect_20260326_150113.jpg
+2026-03-26 15:01:44,knife,0.349,detections\detect_20260326_150144.jpg
+2026-03-26 15:02:24,knife,0.311,detections\detect_20260326_150224.jpg
+2026-03-26 15:03:08,knife,0.352,detections\detect_20260326_150308.jpg
+2026-03-26 15:07:08,knife,0.417,detections\detect_20260326_150708.jpg
+2026-03-27 19:48:57,knife,0.267,detections\detect_20260327_194857.jpg
+2026-03-27 19:49:48,knife,0.374,detections\detect_20260327_194948.jpg
+2026-03-27 19:50:18,knife,0.265,detections\detect_20260327_195018.jpg
